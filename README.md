@@ -19,7 +19,3 @@ validaciones o reglas de negocio con trigger (debe entregar un informe y
 una presentación de 5 minutos).
 
 ![image](https://github.com/user-attachments/assets/ea5c7e1c-743b-48e5-b336-2eb44f09c63c)
-
-Trabajo de dos personas:
-• Fecha de presentación oral 22 de octubre en clases
-• Subir a efinis antes del 31 a las 23:59 el informe
